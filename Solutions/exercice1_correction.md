@@ -1,1 +1,0 @@
-![salu](exercice1.png)
